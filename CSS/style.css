@@ -1,0 +1,38 @@
+body {
+    margin: 0px;
+}
+
+.title {
+    font-family: 'SejonghospitalBold';
+    font-size: 5rem;
+    color: white;
+}
+
+.subtitle {
+    font-family: 'SejonghospitalBold';
+    color: white;
+    font-size: 3rem;
+}
+
+.bgimg {
+    background-image: url('https://img.freepik.com/premium-vector/vector-popular-social-media-circular-logo-set_1023118-26.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+a {
+    color: #ff0000;
+    /* text-decoration: none; */
+}
+
+.darkness {
+    color: white;
+    font-size: 5vw;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.7);
+}
